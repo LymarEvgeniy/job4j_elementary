@@ -30,7 +30,7 @@ public class FindLoopTest {
     public void whenArrayHas6Then0() {
         FindLoop find = new FindLoop();
         int[] input = new int[]{3, 6, 4};
-        int value = 6;
+        int value = 7;
         int result = find.indexOf(input, value);
         int expect = 2;
         assertThat(result, is(expect));
