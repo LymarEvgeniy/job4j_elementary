@@ -32,7 +32,7 @@ public class FindLoopTest {
         int[] input = new int[]{3, 6, 4};
         int value = 7;
         int result = find.indexOf(input, value);
-        int expect = 2;
+        int expect = -1;
         assertThat(result, is(expect));
     }
 }
