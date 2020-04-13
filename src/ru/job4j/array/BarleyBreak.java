@@ -1,6 +1,16 @@
 package ru.job4j.array;
 
+/**
+ * BarleyBreak.
+ *
+ * @author Evgeniy Lymar.
+ */
+
 public class BarleyBreak {
+    /**
+     * Main.
+     * @param args args.
+     */
     public static void main(String[] args) {
         int[][] array = new int[3][3];
         int k = 1;
