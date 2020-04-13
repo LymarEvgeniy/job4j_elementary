@@ -12,6 +12,7 @@ public class SortSelectedTest {
         int[] expect = new int[] {1, 2, 3, 4, 5};
         assertThat(result, is(expect));
     }
+
     @Test
     public void whenSortTree() {
         int[] input = new int[] {1, 5, 2};
