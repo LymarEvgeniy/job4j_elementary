@@ -1,9 +1,9 @@
+package ru.job4j.array;
+
 /**
  * MinDiapason.
  * @autor Evgeniy Lymar.
  */
-package ru.job4j.array;
-
 public class MinDiapason {
     /**
      * Method findMin.

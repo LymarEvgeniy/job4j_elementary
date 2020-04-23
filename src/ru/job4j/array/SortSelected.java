@@ -1,9 +1,9 @@
+package ru.job4j.array;
+
 /**
  * SortSelected.
  * @autor Evgeniy Lymar.
  */
-package ru.job4j.array;
-
 public class SortSelected {
     /**
      * Method sort.

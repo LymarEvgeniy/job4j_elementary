@@ -1,9 +1,8 @@
+package ru.job4j.array;
 /**
  * Min.
  * @autor Evgeniy Lymar.
  */
-package ru.job4j.array;
-
 public class Min {
     /**
      * Method findMin.

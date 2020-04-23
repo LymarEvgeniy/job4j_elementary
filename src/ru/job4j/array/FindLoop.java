@@ -1,9 +1,9 @@
+
+package ru.job4j.array;
 /**
  * FindLoop.
  * @autor Evgeniy Lymar.
  */
-package ru.job4j.array;
-
 public class FindLoop {
     /**
      * Method indexOf

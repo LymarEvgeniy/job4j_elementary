@@ -1,7 +1,5 @@
 package ru.job4j;
 
-import java.util.SortedSet;
-
 public class Multiple {
     public static void main(String[] args) {
         System.out.println("1*1=1");

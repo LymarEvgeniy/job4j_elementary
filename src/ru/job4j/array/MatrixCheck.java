@@ -23,7 +23,6 @@ public class MatrixCheck {
         }
         return result;
     }
-
     /**
      * Method monoVertical.
      *
@@ -41,7 +40,6 @@ public class MatrixCheck {
         }
         return result;
     }
-
     /**
      * Method extractDiagonal.
      *
@@ -55,7 +53,6 @@ public class MatrixCheck {
         }
         return rsl;
     }
-
     /**
      * Method isWin.
      * @param board array elements.

@@ -1,9 +1,9 @@
+
+package ru.job4j.array;
 /**
  * EndsWith.
  * @autor Evgeniy Lymar.
  */
-package ru.job4j.array;
-
 public class EndsWith {
     /**
      * @param word array word.

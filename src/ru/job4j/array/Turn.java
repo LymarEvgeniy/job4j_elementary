@@ -1,9 +1,9 @@
-/**
- * Turn.
- * @autir Evgeniy Lymar
- */
 package ru.job4j.array;
 
+/**
+ * Turn.
+ * @author Evgeniy Lymar
+ */
 public class Turn {
     /**
      * Method back
